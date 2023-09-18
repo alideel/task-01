@@ -52,3 +52,7 @@ p {
     font-size: 10px;
   } */
 }
+
+:where(.css-dev-only-do-not-override-i0102m).ant-modal .ant-modal-close {
+  left: 33px;
+}
